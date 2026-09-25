@@ -1,11 +1,7 @@
-<div align="center">
+ZUNO Digital Bank is a modern financial technology platform designed to make everyday banking simple, fast, secure, and convenient.
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+With ZUNO, users can manage their money from one place — send and receive money, make bank transfers, pay bills, buy airtime and data, save money, manage cards, track transactions, and access other digital financial services.
 
-  <h1>Built with AI Studio</h2>
+Built with modern financial technology, secure transaction workflows, automated services, and intelligent security features, ZUNO is designed to deliver a seamless digital banking experience for individuals and businesses.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+ZUNO — Move Money. Move Forward.
